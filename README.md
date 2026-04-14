@@ -5,9 +5,9 @@
 # What is EC2 Instance
 EC2 stands for Elastic Compute Cloud it's essentially a virtual server on AWS. Instead of buying physical hardware, you rent compute resources like CPU, RAM and storage and pay only for what you use. The elastic part means you can scale up or down based on your application's needs. I've worked with EC2 hands-on SSHing into instances, configuring Security Group rules for inbound and outbound traffic, and managing access for my sock-app deployment on Kubernetes.
 
-```
 
-EC2 usecases
+
+# EC2 usecases
 
 ```
 Deliver secure, reliable, high-performance, and cost-effective compute infrastructure to meet demanding business needs.
@@ -16,7 +16,7 @@ Access environments in minutes, dynamically scale capacity as needed, and benefi
 Deliver the broadest choice of compute, networking (up to 400 Gbps), and storage services purpose-built to optimize price performance for ML projects
 ```
 
-EC2 Instance Types
+# EC2 Instance Types
 
 General purpose
 
@@ -54,7 +54,7 @@ Field Programmable Gate Arrays (FPGAs), or custom Application Specific Integrate
 These accelerators offload computationally intensive tasks from the main CPU, enabling faster and more efficient processing for specific workloads.
 ```
 
-Instance families
+# Instance families
 
 ```
     C – Compute
@@ -88,7 +88,7 @@ Instance families
     X – Extra-large memory
 ```
 
-Additional capabilities
+# Additional capabilities
 
 ```
     a – AMD processors
